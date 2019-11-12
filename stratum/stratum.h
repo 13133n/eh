@@ -213,4 +213,4 @@ void sha256_double_hash_hex(const char *input, char *output, unsigned int len);
 #include "algos/aergo.h"
 #include "algos/hex.h"
 
-#include "algos/equihash.h"
+#include "algos/equi.h"
